@@ -1,0 +1,54 @@
+	body{
+   background-color: #75c3ce;
+   margin: auto;
+}
+
+	
+form,label,input,button
+
+
+
+label{
+    width: 370px;
+    height: 30px;
+    box-decoration-break: clone;
+ }
+ 
+
+.button{
+   background-color: #37b667;
+   cursor: pointer;
+   height: 5ex;
+   
+}
+div{
+      background-color: rgb(255, 255, 255);
+            width: 420PX;
+            
+                  
+
+         border: 1px rgb(47, 47, 212);
+      border-radius: 10px;
+         padding-bottom: 320px;
+             margin:auto ;  
+
+
+
+
+
+}
+
+
+
+.trtt{
+   text-decoration: none;
+
+}
+.textt{
+   text-decoration: none;
+}
+
+input[type="submit"]:hover{
+   background-color: rgb(161, 167, 165);
+
+}
